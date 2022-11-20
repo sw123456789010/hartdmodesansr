@@ -1,0 +1,2 @@
+# hartdmodesansr
+hardmode
